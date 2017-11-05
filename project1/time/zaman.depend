@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509308683 source:/home/hatice/GithubProject/CppProjects/time/Time.cpp
+	<iostream>
+	"Time.h"
+
+1509308719 /home/hatice/GithubProject/CppProjects/time/Time.h
+
+1509308683 source:/home/hatice/GithubProject/CppProjects/project1/time/Time.cpp
+	<iostream>
+	"Time.h"
+
+1509308719 /home/hatice/GithubProject/CppProjects/project1/time/Time.h
+

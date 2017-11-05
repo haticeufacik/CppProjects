@@ -17,6 +17,7 @@ int main()
     cout<<"\n\n the first standard value of time after than TimeSet function : " ;
     t.standard();
 
+    cout<< t.hour<<endl;
 
     t.TimeSet(25,59,61);
     cout<<"\n\nthe invalid value : " ;

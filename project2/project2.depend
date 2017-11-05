@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509879855 source:/home/hatice/project2/main.cpp
+	<iostream>
+	"satici.h"
+
+1509879904 /home/hatice/project2/satici.h
+
+1509879902 source:/home/hatice/project2/satici.cpp
+	<iostream>
+	<iomanip>
+	"satici.h"
+
