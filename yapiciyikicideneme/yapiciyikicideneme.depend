@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1509893156 source:/home/hatice/yapiciyikicideneme/main.cpp
+	<iostream>
+	"yarat.h"
+
+1509892209 /home/hatice/yapiciyikicideneme/yarat.h
+
+1509893224 source:/home/hatice/yapiciyikicideneme/yarat.cpp
+	<iostream>
+	"yarat.h"
+
+1509893286 source:/home/hatice/GithubProject/CppProjects/yapiciyikicideneme/main.cpp
+	<iostream>
+	"yarat.h"
+
+1509892209 /home/hatice/GithubProject/CppProjects/yapiciyikicideneme/yarat.h
+
+1509893224 source:/home/hatice/GithubProject/CppProjects/yapiciyikicideneme/yarat.cpp
+	<iostream>
+	"yarat.h"
+
