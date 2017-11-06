@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509992486 source:/home/hatice/NesneGostericileri/main.cpp
+	<iostream>
+	"Takim.h"
+
+1509991786 /home/hatice/NesneGostericileri/Takim.h
+
+1509992314 source:/home/hatice/NesneGostericileri/Takim.cpp
+	<iostream>
+	"Takim.h"
+

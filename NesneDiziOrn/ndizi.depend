@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1509987128 source:/home/hatice/ndizi/main.cpp
+	<iostream>
+	"person.h"
+
+1509986878 /home/hatice/ndizi/person.h
+	<string>
+
+1509987245 source:/home/hatice/ndizi/person.cpp
+	<iostream>
+	"person.h"
+
+1509987128 source:/home/hatice/GithubProject/CppProjects/NesneDiziOrn/main.cpp
+	<iostream>
+	"person.h"
+
+1509986878 /home/hatice/GithubProject/CppProjects/NesneDiziOrn/person.h
+	<string>
+
+1509987245 source:/home/hatice/GithubProject/CppProjects/NesneDiziOrn/person.cpp
+	<iostream>
+	"person.h"
+
