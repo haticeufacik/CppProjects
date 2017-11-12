@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1510497197 source:/home/hatice/protectedelemanlar/main.cpp
+	<iostream>
+	"Okul.h"
+	"ogrenci.h"
+
+1510495532 /home/hatice/protectedelemanlar/include/Okul.h
+	<string>
+
+1510495501 source:/home/hatice/protectedelemanlar/src/Okul.cpp
+	"Okul.h"
+
+1510496546 source:/home/hatice/protectedelemanlar/src/ogrenci.cpp
+	<iostream>
+	"ogrenci.h"
+	"Okul.h"
+	<string>
+
+1510496369 /home/hatice/protectedelemanlar/include/ogrenci.h
+	"Okul.h"
+	<string>
+
