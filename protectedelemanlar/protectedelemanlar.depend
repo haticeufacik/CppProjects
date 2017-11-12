@@ -16,7 +16,28 @@
 	"Okul.h"
 	<string>
 
-1510496369 /home/hatice/protectedelemanlar/include/ogrenci.h
+1510497625 /home/hatice/protectedelemanlar/include/ogrenci.h
 	"Okul.h"
 	<string>
+
+1510497197 source:/home/hatice/GithubProject/CppProjects/protectedelemanlar/main.cpp
+	<iostream>
+	"Okul.h"
+	"ogrenci.h"
+
+1510495532 /home/hatice/GithubProject/CppProjects/protectedelemanlar/include/Okul.h
+	<string>
+
+1510497625 /home/hatice/GithubProject/CppProjects/protectedelemanlar/include/ogrenci.h
+	"Okul.h"
+	<string>
+
+1510496546 source:/home/hatice/GithubProject/CppProjects/protectedelemanlar/src/ogrenci.cpp
+	<iostream>
+	"ogrenci.h"
+	"Okul.h"
+	<string>
+
+1510495501 source:/home/hatice/GithubProject/CppProjects/protectedelemanlar/src/Okul.cpp
+	"Okul.h"
 

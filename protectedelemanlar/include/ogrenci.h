@@ -8,7 +8,7 @@ using namespace std;
 class Ogrenci: public Okul
 {
     private:
-    string ad, soyad;
+    string soyad;
     int numara;
 
     public:
