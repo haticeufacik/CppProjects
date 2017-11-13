@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1510575214 source:/home/hatice/multipleinheritance/main.cpp
+	<iostream>
+	"A.h"
+	"B.h"
+	"C.h"
+
+1510573501 /home/hatice/multipleinheritance/include/A.h
+	<iostream>
+
+1510574221 /home/hatice/multipleinheritance/include/B.h
+
+1510575073 /home/hatice/multipleinheritance/include/C.h
+	"A.h"
+	"B.h"
+
+1510573560 source:/home/hatice/multipleinheritance/src/A.cpp
+	"A.h"
+	<iostream>
+
+1510574985 source:/home/hatice/multipleinheritance/src/B.cpp
+	"B.h"
+	<iostream>
+
+1510574771 source:/home/hatice/multipleinheritance/src/C.cpp
+	"C.h"
+	"A.h"
+	"B.h"
+	<iostream>
+
